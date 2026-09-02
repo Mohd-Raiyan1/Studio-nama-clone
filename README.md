@@ -6,17 +6,15 @@ A collaborative frontend project inspired by the Studio Namma website, developed
 
 | Team Member | GitHub Branch | Responsibility |
 |---|---|---|
-| **Man Patel** | `feature/home` | Home Page |
-| **Farhan Khan** | `feature/dark-mode` | Dark Mode |
-| **Nitin Maurya** | `feature/menu` | Menu / Navigation Menu |
-| **Saumy Shah** | `feature/nav` | Navigation Bar |
+| **Mohd Raiyan** | `feature/home` | Home Page |
+| **Ankit Bhatt** | `feature/dark-mode` | Dark Mode |
+| **Ayush Raj Singh** | `feature/menu` | Menu / Navigation Menu |
+| **Priyanshu Kumar** | `feature/nav` | Navigation Bar |
 
 ## 🌿 Branch Structure
-
-```text
 master
 │
-├── feature/home       → Man Patel
-├── feature/dark-mode  → Farhan Khan
-├── feature/menu       → Nitin Maurya
-└── feature/nav        → Saumy Shah
+├── feature/home → Mohd Raiyan
+├── feature/dark-mode → Ankit Bhatt
+├── feature/menu → Ayush Raj Singh
+└── feature/nav → Priyanshu Kumar
