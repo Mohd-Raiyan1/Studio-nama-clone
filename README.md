@@ -6,8 +6,8 @@ A collaborative frontend project inspired by the Studio Namma website, developed
 
 | Team Member | GitHub Branch | Responsibility |
 |---|---|---|
-| **Mohd Raiyan** | `feature/home` | Home Page |
-| **Ankit Bhatt** | `feature/dark-mode` | Dark Mode |
+| **Ankit Kumar** | `feature/home` | Home Page |
+| **Mohd Raiyan** | `feature/dark-mode` | Dark Mode |
 | **Ayush Raj Singh** | `feature/menu` | Menu / Navigation Menu |
 | **Priyanshu Kumar** | `feature/nav` | Navigation Bar |
 
